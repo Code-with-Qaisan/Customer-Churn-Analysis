@@ -69,4 +69,4 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 ## Contact
 Qaisan Raza - qaisanraza0@gmail.com
-Project Link: https://github.com/Code-with-Qaisan/Projects
+Project Link: https://github.com/Code-with-Qaisan/Customer-Churn-Analysis
